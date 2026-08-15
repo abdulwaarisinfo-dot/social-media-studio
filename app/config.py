@@ -6,7 +6,7 @@ Every secret comes from environment variables (.env), never hardcoded.
 
 import os
 from dotenv import load_dotenv
-
+ 
 load_dotenv()
 
 
